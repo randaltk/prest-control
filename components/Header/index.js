@@ -44,14 +44,14 @@ const Header = ({ click }) => {
         <div className={styles.linearGradient}>
           <div className={styles.headerNavigation}>
             <div className={styles.logoMetalPev2}>
-              <a href="/">
+              <Link href="/">
                 <Image
-                  width={214}
-                  height={112}
-                  src="https://res.cloudinary.com/aguadeira/image/upload/v1679711812/prestcontrol/WhatsApp_Image_2023-03-07_at_11.06.51_1_oory9t.jpg"
-                  alt="Prest-Control Equipamentos Hidráulicos de Alta Pressão"
+                  width={232}
+                  height={65}
+                  src="https://res.cloudinary.com/aguadeira/image/upload/v1684021272/prestcontrol/copia_pxagws.png"
+                  alt="Prest-Control - Equipamentos Hidráulicos de Alta Pressão"
                 />
-              </a>
+              </Link>
             </div>
             <div className={styles.headerMenu}>
               <div className={styles.menuIconToggleMenu} onClick={click}>

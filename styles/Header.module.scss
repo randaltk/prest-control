@@ -262,9 +262,10 @@
   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
-    rgba(53, 111, 231, 1) 35%,
-    rgb(0, 174, 255) 100%
+    rgba(254, 216, 1) 35%,
+    rgb(254, 216, 1) 100%
   );
+
   padding: 10px 26px;
   color: white;
   border-radius: 8rem;
@@ -277,8 +278,8 @@
     background: linear-gradient(
       90deg,
       rgba(2, 0, 36, 0.774) 0%,
-      rgba(53, 112, 231, 0.692) 35%,
-      rgba(0, 174, 255, 0.726) 70%
+      rgba(254, 216, 1, 0.918) 35%,
+      rgba(254, 216, 1, 0.829) 70%
     );
     cursor: pointer;
   }

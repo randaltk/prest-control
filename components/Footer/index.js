@@ -11,8 +11,8 @@ const Footer = () => {
             <div className={styles.logoMetalPev}>
               <Link href="/">
                 <img
-                  src="https://res.cloudinary.com/aguadeira/image/upload/v1624376725/FTM/58381766_2253291008227679_90483295795544064_n_1_1_zbwpjn_3_wqxjyj.png"
-                  alt="FTM Equipamentos Hidráulicos de Alta Pressão"
+                  src="https://res.cloudinary.com/aguadeira/image/upload/v1684021272/prestcontrol/copia_pxagws.png"
+                  alt="Prest-Control Equipamentos Hidráulicos de Alta Pressão"
                 />
               </Link>
             </div>
