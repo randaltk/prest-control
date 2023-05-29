@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3005",
+    "dev": "next dev -p 3000",
     "build": "next build",
     "start": "next start"
   },
@@ -16,7 +16,6 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-image-gallery": "^1.2.7",
-    "react-whatsapp": "^0.2.1",
     "sass": "^1.34.1"
   }
 }

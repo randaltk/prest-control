@@ -21,9 +21,8 @@ const Topbar = () => {
           <div className={styles.item}>
             <div style={{ display: " flex" }}>
               <span>
-                <b>Fábrica (Matriz):</b> 11 5522-6264{" "}
+                <b>Matriz:(11)5521-5403</b>
               </span>
-              <span style={{ marginLeft: "0.5em" }}>| 11 2574-5782 </span>
             </div>
 
             <Image
@@ -38,9 +37,8 @@ const Topbar = () => {
           <div className={styles.item}>
             <div style={{ display: "flex" }}>
               <span>
-                <b>Comercial (filial):</b> 11 2304-5873
+                <b>Filial:</b> (84) 3272-5689 | 3644-8487 (Parnamirim - RN)
               </span>
-              <span style={{ marginLeft: "0.5em" }}>| 11 2304-2767 </span>
             </div>
 
             <Image
@@ -53,7 +51,7 @@ const Topbar = () => {
           </div>
 
           <div className={styles.item}>
-            <span>contato@ftm.net.br</span>
+            <span>contato@prestcontrol.com.br</span>
             <Image
               src="https://res.cloudinary.com/aguadeira/image/upload/v1621877390/public/584856b4e0bb315b0f7675ac_1_1_kd0wv4.png"
               alt="Email"

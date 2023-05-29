@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.scss";
 import Image from "next/image";
-import ReactWhatsapp from "react-whatsapp";
+
 export default function Contato() {
   return (
     <>
@@ -22,22 +22,6 @@ export default function Contato() {
               Nossa equipe esta preparada para atender a sua empresa de forma
               ágil, confiável e transparente.
             </p>
-
-            <ReactWhatsapp
-              className={styles.btnDefault}
-              number="55 11 99416-6042"
-              message="Olá! Gostaria de obter mais informações"
-              href="#"
-            >
-              Iniciar Conversa
-              <img
-                className={styles.whatsAppIcon}
-                alt="WhatsApp"
-                width={20}
-                height={20}
-                src="https://res.cloudinary.com/aguadeira/image/upload/v1621877447/public/580b57fcd9996e24bc43c543_rq3rpg_1_hzqvlk.png"
-              />
-            </ReactWhatsapp>
           </div>
         </div>
       </section>
