@@ -1,5 +1,5 @@
 .headerStyle {
-  background-image: url("https://res.cloudinary.com/aguadeira/image/upload/v1646225142/FTM/vendas/pexels-kindel-media-9800117_jra0x2.jpg");
+  background-image: url("https://res.cloudinary.com/aguadeira/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1685384473/prestcontrol/pexels-kindel-media-9800102_b45nju.jpg");
   background-position: center top 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,7 +31,6 @@
 .linearGradient {
   height: 26.804rem;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.404));
 }
 
 .logoMetalPev {
@@ -187,13 +186,6 @@
     0 -0.5px 0.1px black;
   @media only screen and (max-width: 800px) {
   }
-  // .imagesContainer {
-  //   display: grid;
-  //   margin-left: 2em;
-  //   grid-template-columns: 1fr 1fr 1fr;
-  //   grid-gap: 1em;
-  //   max-width: 800px;
-  // }
 }
 
 .container {
@@ -242,12 +234,7 @@
   margin-top: 20px;
 }
 .borderStyle {
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(53, 111, 231, 1) 35%,
-    rgb(0, 174, 255) 100%
-  );
+  background: rgb(123, 254, 1);
 
   max-width: 120px;
   display: block;
@@ -259,15 +246,9 @@
   font-size: 16px;
   width: 270px;
   line-height: 1.5rem;
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(254, 216, 1) 35%,
-    rgb(254, 216, 1) 100%
-  );
-
+  background: rgb(123, 254, 1);
   padding: 10px 26px;
-  color: white;
+  color: #000;
   border-radius: 8rem;
   border: none;
   font-family: Arial, Helvetica, sans-serif;
@@ -278,8 +259,8 @@
     background: linear-gradient(
       90deg,
       rgba(2, 0, 36, 0.774) 0%,
-      rgba(254, 216, 1, 0.918) 35%,
-      rgba(254, 216, 1, 0.829) 70%
+      rgba(53, 112, 231, 0.692) 35%,
+      rgba(0, 174, 255, 0.726) 70%
     );
     cursor: pointer;
   }

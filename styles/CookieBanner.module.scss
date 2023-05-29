@@ -8,13 +8,7 @@
   margin-right: auto;
   width: 88%;
   z-index: 999;
-
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(254, 216, 1) 35%,
-    rgb(254, 216, 1) 100%
-  );
+  background: rgb(123, 254, 1);
 
   border-radius: 16px;
 
@@ -34,15 +28,9 @@
       font-size: 16px;
       width: 270px;
       line-height: 1.5rem;
-      background: linear-gradient(
-        90deg,
-        rgba(2, 0, 36, 1) 0%,
-        rgba(254, 216, 1) 35%,
-        rgb(254, 216, 1) 100%
-      );
-
+      background: rgb(123, 254, 1);
       padding: 5px 13px;
-      color: white;
+      color: #000;
       border-radius: 8rem;
       border: none;
       font-family: Arial, Helvetica, sans-serif;
@@ -57,11 +45,10 @@
       &:hover {
         background: linear-gradient(
           90deg,
-          rgba(2, 0, 36, 1) 0%,
-          rgba(254, 216, 1) 35%,
-          rgb(254, 216, 1) 70%
+          rgba(2, 0, 36, 0.774) 0%,
+          rgba(53, 112, 231, 0.692) 35%,
+          rgba(0, 174, 255, 0.726) 70%
         );
-
         cursor: pointer;
       }
     }

@@ -13,7 +13,6 @@ const Topbar = () => {
                 layout="fill"
                 src="https://res.cloudinary.com/aguadeira/image/upload/v1684020663/copia_nr0sjo.png"
                 alt="Prest-Control - Equipamentos Hidráulicos de Alta Pressão"
-                className={styles.image}
               />
             </Link>
           </div>
