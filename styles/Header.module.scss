@@ -145,6 +145,13 @@
 }
 
 .navItem {
+  // color:  background: linear-gradient(
+  //     90deg,
+  //     rgba(2, 0, 36, 0.774) 0%,
+  //     rgba(53, 112, 231, 0.692) 35%,
+  //     rgba(0, 174, 255, 0.726) 70%
+  //   );
+  color: #000;
   text-decoration: none;
   margin: auto;
   transition: 0.3s ease;
@@ -152,8 +159,8 @@
   vertical-align: middle;
   padding: 10px 15px;
   font-weight: 620;
-  text-shadow: -0.5px 0 0.1px black, 0 0.5px 0.1px black, 0.5px 0 0.1px black,
-    0 -0.5px 0.1px rgb(0, 0, 0);
+  // text-shadow: -0.5px 0 0.1px black, 0 0.5px 0.1px black, 0.5px 0 0.1px black,
+  //   0 -0.5px 0.1px rgb(0, 0, 0);
   a {
     position: relative;
     padding: 0 10px;

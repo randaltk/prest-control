@@ -4,33 +4,16 @@
   }
 }
 .logoMetalPev {
-  margin-left: 4rem;
-  object-fit: cover;
-  padding-right: 3em;
-
+  margin-left: 7rem;
   width: 18vw;
-  height: 18vh;
+  height: 15vh;
   position: relative;
+
   @media only screen and (max-width: 800px) {
     margin-left: 0.2rem;
   }
-  .image {
-    width: 100%;
-    height: 100%;
-  }
 }
 
-// .logoMetalPev {
-//   margin-left: 4rem;
-//   object-fit: cover;
-//   padding-right: 3em;
-//   @media only screen and (max-width: 800px) {
-//     margin-left: 0.2rem;
-//   }
-// }
-// .logoMetalPev img {
-//   width: 100%;
-// }
 .content {
   display: flex;
   align-items: center;
