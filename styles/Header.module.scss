@@ -161,12 +161,7 @@
   a::after {
     content: "";
     position: absolute;
-    background: linear-gradient(
-      90deg,
-      rgba(2, 0, 36, 1) 0%,
-      rgba(53, 111, 231, 1) 35%,
-      rgb(0, 174, 255) 100%
-    );
+    background: rgb(123, 254, 1);
     height: 2px;
     width: 0;
     left: 0;
